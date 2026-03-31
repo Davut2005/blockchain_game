@@ -1,4 +1,4 @@
-# Blockchain Game
+# Solidity Blockchain Game
 
 ## The simple blockchain game with react and Solidity
 
